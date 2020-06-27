@@ -15,8 +15,8 @@ The bug is produced by redirecting on a page with 404 Not Found Error.
 When you click on the image "Schengen Romania European Union" you are redirecting on a page with 404 Not Found Error.  
  
 **Expected results**  
-All users should be able to access "Schengen Romania European Union" should be redirected to the Schengen Romania European Union official page.   
-
+All users should be able to access "Schengen Romania European Union" should be redirected to the Schengen Romania European Union official page.  
+[Atachment](download)
 
 
  
