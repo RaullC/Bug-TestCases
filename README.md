@@ -16,7 +16,7 @@ When you click on the image "Schengen Romania European Union" you are redirectin
  
 **Expected results**  
 All users should be able to access "Schengen Romania European Union" should be redirected to the Schengen Romania European Union official page.  
-[Atachment](download)
+![Atachment](download.JPG)
 
 
  
