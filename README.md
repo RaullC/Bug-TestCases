@@ -43,8 +43,8 @@ As a user to be able to give a rating only for a verified acquisition, one time 
 **Summary**   
 After a chapter for an online curs is a quiz section, where the user can test his new knowledge. Every question has multiple correct answers.   
 
-**Description** 
-As a user should receive the maximum score test only if he selects only the correct answers.    
+**Description**  
+As a user should receive the maximum score test only if he selects only the correct answers.      
 
 **Steps to reproduce**   
  1. Open www.recruite-me.it/moodle/login/index.php   
