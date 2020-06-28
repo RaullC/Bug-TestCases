@@ -1,4 +1,4 @@
-# Bug Report
+# Bug Reports
 
 **Summary**   
 Link Schengen Romania European Union not found.  
