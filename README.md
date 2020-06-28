@@ -68,12 +68,57 @@ Pass the test and receive the maximum score.
 Fail the test because were selected the correct and incorrect answers.   
 ![Atachment](quiz.JPG)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Test Cases
 
+**Title**  
+Jmeter HTTP Request on mogultechblog.wordpress.com   
 
+**Summary**   
+Getting average load time for website homepage.   
+ 
+**Steps to reproduce**   
+1. Execute Jmeter   
+2. Click in the menu bar "Edit" -> "Add" -> "Threads (Users)" -> "Thread Group"   
+3. Click in the field "Number of Threads (users)" and type 5   
+4. Click the field "Ramp-up period (seconds)" and type 2   
+5. Click the field "Loop Count" and type 3   
+6. Right click on "Thread Group" - > "Add" -> "Sampler" -> "HTTP Request"   
+7. Copy link "mogultechblog.wordpress.com" in "Server Name or IP" field   
+8. Right click on "HTTP Request" -> "Add" -> "Listener" -> "View Results Tree"    
+9. Click in the menu bar on "Run" -> "Start   
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+**Title**  
+Check weather using city id   
+ 
+**Summary**   
+Search for a city weather information on "https://openweathermap.org" using id to find a city.   
+
+**Steps to reproduce**   
+1. Open Postman   
+2. Click "New" - >  click "Request" - >   enter a name "Request name" field  , select in which collection do you want to save it  and click "Save"   
+3. In the "Enter request URL" field enter"api.openweathermap.org/data/2.5/weather?appid=62238cb90033a9951525d7daa113340c&units=metric&id=681290"   
+4. Click "Send"   
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+**Title**    
+Information about corona virus cases in USA      
+
+**Summary**   
+Receive information's regarding Coronavirus in US  cases by County.   
+In our test from California.   
+ 
+**Steps to reproduce**   
+1. Open Postman   
+2. Click "New" - >  click "Request" - >   enter a name "Request name" field  , select in which collection do you want to save it  and click "Save"   
+3. In the "Enter request URL" field enter "http://coronavirusapi.com/getTimeSeries/CA"   
+4. Click "Send"   
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
