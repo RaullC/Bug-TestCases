@@ -100,7 +100,7 @@ Search for a city weather information on "https://openweathermap.org" using id t
 **Steps to reproduce**   
 1. Open Postman   
 2. Click "New" - >  click "Request" - >   enter a name "Request name" field  , select in which collection do you want to save it  and click "Save"   
-3. In the "Enter request URL" field enter"api.openweathermap.org/data/2.5/weather?appid=62238cb90033a9951525d7daa113340c&units=metric&id=681290"   
+3. In the "Enter request URL" field enter"api.openweathermap.org/data/2.5/weather?appid=X2238cb90033a9951525d7daa113340c&units=metric&id=681290"   
 4. Click "Send"   
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
