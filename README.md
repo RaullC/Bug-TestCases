@@ -36,6 +36,6 @@ Give seven stars five times one after another without the need to buy this book 
   
 **Expected results**   
 As a user to be able to give a rating only for a verified acquisition, one time with a verified user.  
-![Atachment](librarie1)![Atachment](librarie2) 
+![Atachment](librarie1.JPG) ![Atachment](librarie2.JPG) 
 
 
