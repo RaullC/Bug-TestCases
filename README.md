@@ -26,7 +26,7 @@ Anyone on the site can give more than one rating to a book.
 **Description**   
 As a user can give more than one rating for a book without the need to have the book acquired or to have a user from the same IP address.   
 
-**Steps to reproduce**     
+**Steps to reproduce**       
 1. Open https://www.librariaonline.ro      
 2. Click on a random book   
 3. Click on how many stars do you want to give for the book how many times do you want    
