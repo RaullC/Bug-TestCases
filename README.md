@@ -1,4 +1,4 @@
-# Bugs-TestCases
+# Bug Report
 
 **Summary**   
 Link Schengen Romania European Union not found.  
@@ -66,7 +66,12 @@ Pass the test and receive the maximum score.
 
 **Expected Results**   
 Fail the test because were selected the correct and incorrect answers.   
-![Atachment](quiz.JPG)  
+![Atachment](quiz.JPG)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Test Cases
+
 
 
 
